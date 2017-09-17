@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 歡迎來到亞東資管
+為因應知識經濟時代的來臨，本校於民國89年改制為技術學院後戮力經營「發展特色、重點突破」的辦學方針，自改制前的專科部七科發展至今成為三個研究所、三個學群、十一個科系的學制規模，全校學生約4,600員，並逐步向科技大學的目標邁進。
 
-You can use the [editor on GitHub](https://github.com/oit-mi/oit-mi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+資訊管理系成立於民國91年，自成立以來，以「智慧生活、創新加值」為人才培育目標，同時輔以「雲端服務創新與應用」與「智慧商務創新與應用」兩大發展構面來建構及豐富「智慧生活、創新加值」的學習內涵。並追求具人文關懷與職業倫理的教育氛圍，致力提供熱忱教學及良性互動的優質學習環境，期能培養出兼具健全人格、創新實踐與管理的資訊人才。
+  
+亞東技術學院是遠東集團的一份子，本系除了與亞東醫院、遠傳電信有多項產學研究案合作外，遠通電收、遠傳教育中心亦提供「暑期產業實習」機會，讓學生獲得不少寶貴之經驗。未來將善用集團資源與關係企業密切合作，與遠傳、愛買及新世紀資通等關係企業建立長期合作夥伴關係，以提供學生更佳之實習環境與就業機會。本系成立至今已經歷13年，全體教師秉持「誠、勤、樸、慎 創新」的校訓精神，本著「百年樹人」之教育理念，竭盡可能提供同學良好的學習環境，以奠定學生良好的專業基礎與態度，讓學生在畢業之後能更具競爭力，順利往下一目標前進。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oit-mi/oit-mi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 系所特色
+本系之發展方向著重在資訊科技與經營管理整合，強調理論方法與實務應用之相互配合，重視科際整合的研究發展，進行跨領域的學程整合。未來將積極朝向四大目標前進：延聘各領域之專家學者，強化本系師資陣容；結合鄰近工業區廠商，加強與業界之實習合作關係；提升教學及研究水準，舉辦學術實習研討會；參與國際學術交流，拓展國際觀與邁向全球化。本系以「智慧生活創新加值」為發展目標，以「雲端服務創新與應用」與「智慧商務創新與應用」為發展主軸，並規劃出「雲端虛實整合」與「智慧服務整合」兩大重點發展之專長領域。藉由課程模組與學習輔導等機制，希望能培育出學以致用之資訊管理專業人才。
